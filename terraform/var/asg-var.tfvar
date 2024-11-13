@@ -1,1 +1,3 @@
-myvar = "my region"
+region = "my region"
+
+myvar = "my var val"
